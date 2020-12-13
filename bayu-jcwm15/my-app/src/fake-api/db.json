@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "nama": "bayu",
+      "usia": 18,
+      "pekerjaan": "coder"
+    },
+    {
+      "id": 1,
+      "nama": "sule",
+      "usia": 41,
+      "pekerjaan": "youtuber"
+    },
+    {
+      "id": 2,
+      "nama": "andre",
+      "usia": 40,
+      "pekerjaan": "artis"
+    },
+    {
+      "nama": "bayu",
+      "usia": "13",
+      "pekerjaan": "coder",
+      "id": 3
+    }
+  ]
+}
