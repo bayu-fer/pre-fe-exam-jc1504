@@ -1,5 +1,7 @@
+// Sorry kak cuman sampai add, saya udah otak atik malah fail :(
 import React from "react";
 import Axios from "axios";
+
 
 class Home extends React.Component {
   state = {
